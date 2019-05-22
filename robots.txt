@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ougiethohw.thecolorcreative.com/sitemap.xml
